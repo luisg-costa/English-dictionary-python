@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Improvements Needed](#improvements-needed)
 * [Contact](#contact)
 
 
